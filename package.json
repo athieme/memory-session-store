@@ -1,0 +1,28 @@
+{
+    "name" : "memory-session-store" ,
+    "version" : "0.1.0" ,
+    "description" : "In-memory based session store" ,
+    "keywords" : [ "memory" , "session", "store" ] ,
+    "main" : "index.js" ,
+    "scripts" : {
+        "test" : "mocha test/**/*.js"
+    } ,
+    "author" : {
+        "name" : "Alex Thieme" ,
+        "email" : "athieme@athieme.com"
+    } ,
+    "license" : "MIT" ,
+    "repository" : {
+        "type" : "git" ,
+        "url" : "https://github.com/athieme/memory-session-store.git"
+    } ,
+    "dependencies" : {
+        "winston" : "0.7.2" ,
+        "underscore" : "1.5.2" ,
+        "node-uuid" : "1.4.1"
+    } ,
+    "devDependencies" : {
+        "should" : "3.1.2"
+    }
+}
+
