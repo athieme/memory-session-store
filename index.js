@@ -1,5 +1,5 @@
 /**
- * Copyright (c) MuleSoft, Inc.  All rights reserved.  http://www.mulesoft.com
+ * Copyright (c) 2013 Alex Thieme  All rights reserved.
  */
 
 var logger = require('winston');
